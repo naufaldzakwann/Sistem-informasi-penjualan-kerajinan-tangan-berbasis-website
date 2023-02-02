@@ -136,18 +136,18 @@ teks1       db 13,10,'                                       '
         db 13,10,'Terima Kasih karena sudah membeli $'
 
 teks2       db 13,10,'                                       '
-        db 13,10,'JENIS KERAJINAN YANG ANDA PILIH ADALAH BAJU LENGAN PENDEK SABLON '
+        db 13,10,'JENIS KERAJINAN YANG ANDA PILIH ADALAH KERAJINAN VASE BUNGA  '
         db 13,10,'Total harga yang harus anda bayar : Rp 60.000'
         db 13,10,'Terima Kasih karena sudah membeli $' 
 
 teks3       db 13,10,'                                       '
-        db 13,10,'JENIS KERAJINAN YANG ANDA PILIH ADALAH BAJU LENGAN PANJANG '
-        db 13,10,'Total harga yang harus anda bayar : Rp 80.000 '
+        db 13,10,'JENIS KERAJINAN YANG ANDA PILIH ADALAH KERAJINAN RAJUT '
+        db 13,10,'Total harga yang harus anda bayar : Rp 20.000 '
         db 13,10,'Terima Kasih karena sudah membeli $' 
         
 teks4       db 13,10,'                                       '
-        db 13,10,'JENIS KERAJINAN YANG ANDA PILIH ADALAH BAJU LENGAN PANJANG SABLON '
-        db 13,10,'Total harga yang harus anda bayar : Rp 100.000 '
+        db 13,10,'JENIS KERAJINAN YANG ANDA PILIH ADALAH KERAJINAN RAJUT PERHIASAN RUMAH '
+        db 13,10,'Total harga yang harus anda bayar : Rp 40.000 '
         db 13,10,'Terima Kasih karena sudah membeli $' 
 
 end start
